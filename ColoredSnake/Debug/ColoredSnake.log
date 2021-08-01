@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\dinez\source\repos\ColoredSnake\ColoredSnake\Game.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ColoredSnake.vcxproj -> C:\Users\dinez\source\repos\ColoredSnake\Debug\ColoredSnake.exe
